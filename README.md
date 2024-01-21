@@ -41,4 +41,3 @@ Below are the programming languages, frameworks, libraries, and tools that I am 
 - Email: [arturo.latorre2301@gmail.com](mailto:arturo.latorre2301@gmail.com)
 - LinkedIn: [Arturo Latorre Castelltort](https://www.linkedin.com/in/arturo-latorre-castelltort-820496258/)
 
-> Don't forget to add any other personal or professional information you'd like to share.
