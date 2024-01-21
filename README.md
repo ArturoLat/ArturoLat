@@ -27,7 +27,7 @@ Below are the programming languages, frameworks, libraries, and tools that I am 
 
 ## 📈 Stats
 
-[![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturoLat&show_icons=true&theme=radical)](https://github.com/ArturoLat)
+[![My stats](https://github-readme-stats.vercel.app/api?username=ArturoLat&show_icons=true&theme=radical)](https://github.com/ArturoLat)
 
 
 ### 📊 More Stats
