@@ -24,6 +24,7 @@ Below are the programming languages, frameworks, libraries, and tools that I am 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/-scikit--image-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-007396?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ## 📈 Stats
 
